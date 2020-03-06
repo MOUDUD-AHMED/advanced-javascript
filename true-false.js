@@ -12,7 +12,7 @@
 // []
 
 
-const name = {};
+const name = '';
 if(name){
     console.log("Condition is true");
 }
